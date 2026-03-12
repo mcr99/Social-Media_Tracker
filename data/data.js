@@ -1,4 +1,4 @@
-const dashboardData = {
+export const dashboardData = {
   header: {
     title: "Social Media Dashboard",
     totalFollowers: 23004
