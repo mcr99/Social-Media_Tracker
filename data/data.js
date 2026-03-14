@@ -16,7 +16,7 @@ export const dashboardData = {
         value: 12,
         isPositive: true
       },
-      accentColor: "hsl(208, 92%, 53%)"
+      accentColor: "hsl(208,92%,53%)"
     },
     {
       platform: "twitter",
@@ -28,7 +28,7 @@ export const dashboardData = {
         value: 99,
         isPositive: true
       },
-      accentColor: "hsl(203, 89%, 53%)"
+      accentColor: "hsl(203,89%,53%)"
     },
     {
       platform: "instagram",
@@ -52,7 +52,7 @@ export const dashboardData = {
         value: 144,
         isPositive: false
       },
-      accentColor: "hsl(348, 97%, 39%)"
+      accentColor: "hsl(348,97%,39%)"
     }
   ],
 
