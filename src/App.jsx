@@ -6,7 +6,6 @@ import Overview from './components/Overview'
 import {dashboardData} from '../data/data'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
